@@ -61,7 +61,7 @@ namespace TexteAlphabetizer
         };
 
         /**
-         * Returns -1 if string a is earlier in the alphabet than string b. Ie: true corresponds to a being earlier, false to b
+         * Returns -1 if string a is earlier in the alphabet than string b. Ie: -1 corresponds to a being earlier, 1 to b
          * @param a The first string
          * @param b The second string
          * @return If a is before b, returns -1 | If a is less than b, returns 1 | If they're equal, returns 0
@@ -103,8 +103,8 @@ namespace TexteAlphabetizer
             //If we get here, one string begins the other (eg: "car" and "cars") or they're the same
             if (a.Equals(b)) { return 0; }
 
-            if (shorter.Equals(a)) { return -1; } //a is the shorter and therefore sequentially earlier; return true
-            else { return 1; } //b is the shorter and therefore sequentially earlier; return false
+            if (shorter.Equals(a)) { return -1; } //a is the shorter and therefore sequentially earlier; return -1
+            else { return 1; } //b is the shorter and therefore sequentially earlier; return 1
         }
     }
 }

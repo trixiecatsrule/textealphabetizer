@@ -101,10 +101,6 @@ namespace TexteAlphabetizer
             }
 
             input.Text = output.Substring(0, output.Length - "\r\n".Length);
-
-            //Debug.WriteLine(alphabetize("Яāwłāиz", "Dłøяиwnaklчи")); //Should return false
-            //Debug.WriteLine(alphabetize("Ānawreftīиānωāktē", "Цзиωeиrī")); //Should return true
-            //Debug.WriteLine(alphabetize("Fg", "fga")); //Should return true
         }
 
         /**
