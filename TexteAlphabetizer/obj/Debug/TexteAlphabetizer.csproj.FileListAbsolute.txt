@@ -1,0 +1,12 @@
+c:\users\hazel\documents\visual studio 2015\Projects\TexteAlphabetizer\TexteAlphabetizer\bin\Debug\TexteAlphabetizer.exe.config
+c:\users\hazel\documents\visual studio 2015\Projects\TexteAlphabetizer\TexteAlphabetizer\bin\Debug\TexteAlphabetizer.exe
+c:\users\hazel\documents\visual studio 2015\Projects\TexteAlphabetizer\TexteAlphabetizer\bin\Debug\TexteAlphabetizer.pdb
+c:\users\hazel\documents\visual studio 2015\Projects\TexteAlphabetizer\TexteAlphabetizer\obj\Debug\TexteAlphabetizer.csprojResolveAssemblyReference.cache
+c:\users\hazel\documents\visual studio 2015\Projects\TexteAlphabetizer\TexteAlphabetizer\obj\Debug\TexteAlphabetizer.Form.resources
+c:\users\hazel\documents\visual studio 2015\Projects\TexteAlphabetizer\TexteAlphabetizer\obj\Debug\TexteAlphabetizer.Properties.Resources.resources
+c:\users\hazel\documents\visual studio 2015\Projects\TexteAlphabetizer\TexteAlphabetizer\obj\Debug\TexteAlphabetizer.csproj.GenerateResource.Cache
+c:\users\hazel\documents\visual studio 2015\Projects\TexteAlphabetizer\TexteAlphabetizer\obj\Debug\TexteAlphabetizer.exe
+c:\users\hazel\documents\visual studio 2015\Projects\TexteAlphabetizer\TexteAlphabetizer\obj\Debug\TexteAlphabetizer.pdb
+C:\Users\Hazel\Downloads\TexteAlphabetizer\TexteAlphabetizer\bin\Debug\TexteAlphabetizer.exe.config
+C:\Users\Hazel\Downloads\TexteAlphabetizer\TexteAlphabetizer\obj\Debug\TexteAlphabetizer.exe
+C:\Users\Hazel\Downloads\TexteAlphabetizer\TexteAlphabetizer\obj\Debug\TexteAlphabetizer.pdb
